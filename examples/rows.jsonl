@@ -1,0 +1,2 @@
+{"row_id":"row-a","values":["item-shared"],"payload":{"label":"unselected"}}
+{"row_id":"row-b","values":["item-shared","item-b","item-skipped"],"payload":{"label":"synthetic","note":"範例"}}
